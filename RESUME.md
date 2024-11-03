@@ -1,9 +1,9 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
+# Corey Scholes, PhD
+Scientist
+| [cscholes181@gmail.com](mailto:cscholes181@gmail.com)
+| [+61411032987](tel:+61411032987)
 | [example.com](https://example.com)
-| [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
+| [linkedin.com/in/coreyscholes](https://www2.linkedin.com/in/coreyscholes/)
 
 ## About me
 Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
